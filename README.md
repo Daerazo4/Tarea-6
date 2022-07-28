@@ -18,13 +18,27 @@ descargado parece como un cortocircuito cuando se energiza por primera vez y cua
 -  Resolver problemas simples de transitorios rc con pspice y
 Multisim.
 ## 2.	MARCO TEORICO
-### Capítulo 11
 
 [![Mapa-mental.jpg](https://i.postimg.cc/wvwyZqg7/Mapa-mental.jpg)](https://postimg.cc/S2zxzpXh)
 
-### Capitulo 12
+![INTR0 (2)](https://user-images.githubusercontent.com/84431598/127587730-ce830f28-3f37-4db8-8fd2-cc5d5c8517c7.png)
+
+![EC CARGA (2)](https://user-images.githubusercontent.com/84431598/127677104-e61ccc48-22eb-4083-b768-93ab64e78e7a.png)
+
+![capacitor con un voltaje inicial (2)](https://user-images.githubusercontent.com/84431598/126885960-326f62f8-cf78-40f5-b440-31ee48600506.png)
+
+![EC DE DESCARGA (2)](https://user-images.githubusercontent.com/84431598/127674621-6d4b7cf0-423c-4bc4-9301-766ea82c62ea.png)
+
+![1 (3)](https://user-images.githubusercontent.com/84431598/127395365-cc398bd2-1b9b-4674-bbdb-6b73dc35e833.png)
+
+![aplicacion (2)](https://user-images.githubusercontent.com/84431598/126885984-80544529-5afd-4704-bb26-bfd31cd314ae.png)
+
+![circuitos rc 1png](https://user-images.githubusercontent.com/84431598/127393196-69e96c36-0326-4fac-8faf-8aaa6d917179.png)
+
+![Diapositiva1](https://user-images.githubusercontent.com/84458025/127683628-609f88ed-e47f-4709-8a8e-4d2a33d4d19b.PNG)
 
 ## 3.	EXPLICACION Y RESOLUCION DE EJERCICIOS 
+
 2. El capacitor de la figura 11-50 esta descargado.
 
 a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
