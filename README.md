@@ -35,7 +35,6 @@ Multisim.
 
 ![circuitos rc 1png](https://user-images.githubusercontent.com/84431598/127393196-69e96c36-0326-4fac-8faf-8aaa6d917179.png)
 
-![Diapositiva1](https://user-images.githubusercontent.com/84458025/127683628-609f88ed-e47f-4709-8a8e-4d2a33d4d19b.PNG)
 
 ## 3.	EXPLICACION Y RESOLUCION DE EJERCICIOS 
 
